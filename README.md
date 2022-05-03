@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Luis Henrique
+- 👀 I’m Software Engineer
+- 🌱 I’m currently learning Android Studio
